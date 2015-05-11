@@ -13,4 +13,4 @@ Screenshot
 Live example
 ------------
 
-Go to [my blog][http://en.pztrn.name/] to see how this theme looks like live!
+Go to [my blog](http://en.pztrn.name/) to see how this theme looks like live!
