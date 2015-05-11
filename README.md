@@ -1,11 +1,7 @@
-Pelican theme - SoMA
+Pelican theme - Idioma
 ====================
 
-
-Features
---------
-* Simple and clean interface.
-* Looks and works well on all the mobile devices.
+Idioma is a Pelican theme, forked from [SoMA2](https://github.com/getpelican/pelican-themes/tree/master/SoMA2).
 
 
 Screenshot
@@ -17,8 +13,4 @@ Screenshot
 Live example
 ------------
 
-Go to [LaunchYard's blog][lyblog] to see how this theme looks like live!
-
-
-
-  [lyblog]: http://blog.launchyard.com
+Go to [my blog][http://en.pztrn.name/] to see how this theme looks like live!
