@@ -1,9 +1,9 @@
 {% if DISQUS_SITENAME %}
 
 {% if PELICAN_ON_HTTPS %}
-    {% PROTO = https %}
+    {% set PROTO = https %}
 {% else %}
-    {% PROTO = http %}
+    {% set PROTO = http %}
 {% endif %}
 <script type="text/javascript">
     var disqus_shortname = '{{ DISQUS_SITENAME }}';
