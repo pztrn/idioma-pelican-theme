@@ -476,7 +476,7 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 .entry-title a:visited {background-color: #fff;}
 .entry-content blockquote {font-size: 1em; margin: 10px 20px; }
 .entry-content li {font-size: 1.6em; margin-left: 30px;}
-.entry-content li p {font-size: 100%; color: #000;}
+.entry-content li p {font-size: 100%; color: #000; margin-bottom: .5em; }
 #featured .body li {font-size: 1.6em;}
 #featured .body blockquote {font-size: 1em; margin: 10px 20px; }
 
